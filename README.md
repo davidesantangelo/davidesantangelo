@@ -9,13 +9,18 @@
 - 📫 How to reach me: davide.santangelo@gmail.com
 - 🏠 Italy
 
-[![Twitter Follow][twitter-image]](https://twitter.com/daviducolo)
-
+### Website
 
 [davidesantangelo.com](https://davidesantangelo.com)
+
+### Stats
+
+[![Twitter Follow][twitter-image]](https://twitter.com/daviducolo)
 
 [![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidesantangelo.count_visitors)
 
 [twitter-image]: https://img.shields.io/twitter/follow/daviducolo?style=social
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&layout=compact" alt="matthewpalmer9" /></p>
