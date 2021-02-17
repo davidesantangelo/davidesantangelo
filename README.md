@@ -6,16 +6,16 @@
 ### About me :rocket:
 - 🎓 I am a Web Engineer
 - ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Ruby and Rails* 
-- 📫 How to reach me: davide.santangelo@gmail.com
+- 📫 How to reach me: davide.santangelo@gmail.com 
 - 🏠 Italy
 
 ### Website
 
 [davidesantangelo.com](https://davidesantangelo.com)
 
-### Stats
-
 [![Twitter Follow][twitter-image]](https://twitter.com/daviducolo)
+
+### Stats
 
 [![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo)](https://github.com/anuraghazra/github-readme-stats)
 
