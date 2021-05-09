@@ -21,10 +21,12 @@ I have improved and refined my skills every single day, working in very differen
 
 ### Stats
 
-[![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/yasinatesim">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=davidesantangelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=dark"/>
+</a>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidesantangelo.count_visitors)
 
 [twitter-image]: https://img.shields.io/twitter/follow/daviducolo?style=social
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&layout=compact" alt="matthewpalmer9" /></p>
