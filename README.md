@@ -26,6 +26,8 @@ I have improved and refined my skills every single day, working in very differen
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=dark"/>
 </a>
 
+<br>
+<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidesantangelo.count_visitors)
 
