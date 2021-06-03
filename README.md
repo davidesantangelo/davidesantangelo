@@ -8,8 +8,8 @@ I have improved and refined my skills every single day, working in very differen
 </p>
 
 ### About me :rocket:
-- 🎓 I am a Web Engineer
-- ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Ruby and Rails* 
+- 🎓 I am a Software Engineer
+- ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Ruby and Go* 
 - 📫 How to reach me: davide.santangelo@gmail.com 
 - 🏠 Italy
 
