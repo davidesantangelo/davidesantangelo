@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Davide Santangelo
 
-I have a lot of experience in web development. I have the ability to solve many problems and i use different approaches and solutions in my projects. I'm in love with ruby and python.
+I have a lot of experience in web development. I have the ability to solve many problems and i use different approaches and solutions in my projects. I'm in love with ruby, go and python.
 
 I have improved and refined my skills every single day, working in very different environments using many different technologies. 
 
