@@ -17,6 +17,10 @@ I have improved and refined my skills every single day, working in very differen
 
 [davidesantangelo.com](https://davidesantangelo.com)
 
+### Organization
+
+[dato-ai](https://github.com/dato-ai)
+
 [![Twitter Follow][twitter-image]](https://twitter.com/daviducolo)
 
 ### Stats
