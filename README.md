@@ -33,6 +33,4 @@ I have improved and refined my skills every single day, working in very differen
 <br>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=davidesantangelo.count_visitors)
-
 [twitter-image]: https://img.shields.io/twitter/follow/daviducolo?style=social
