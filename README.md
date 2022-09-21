@@ -10,7 +10,6 @@ I have improved and refined my skills every single day, working in very differen
 ### About me :rocket:
 - 🎓 I am a Software Engineer
 - ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Ruby and Python* 
-- 📫 How to reach me: davide.santangelo@gmail.com 
 - 🏠 Italy
 
 ### Website
