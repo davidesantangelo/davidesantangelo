@@ -6,6 +6,11 @@ I have a deep understanding of REST API integration and have worked extensively 
 
 I have honed and refined my skills on a daily basis, working in very different environments with many different technologies. 
 
+I really enjoy studying search engines and their various implementations to the point where I created my own REST API that relies on extracting information from RSS feeds. 
+
+https://searq.org
+
+
 <p> <a href="https://www.linkedin.com/in/davidesantangelo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://dev.to/daviducolo" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
 </p>
 
