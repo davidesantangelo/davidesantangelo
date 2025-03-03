@@ -26,7 +26,7 @@ I really enjoy studying search engines and their various implementations.
 
 ### Stats
 
-<a href="https://github.com/yasinatesim">
+<a href="https://github.com/davidesantangelo">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=davidesantangelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=dark"/>
 </a>
