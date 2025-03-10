@@ -40,11 +40,9 @@ I’m fueled by a passion for clean code, clever solutions, and the thrill of pu
 
 ### Stats
 
-<a href="https://github.com/davidesantangelo">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=davidesantangelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=dark"/>
-</a>
-
+![davidesantangelo's Stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+<br>
+![davidesantangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <br>
 <br>
 
