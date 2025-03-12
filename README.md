@@ -40,7 +40,7 @@ I’m fueled by a passion for clean code, clever solutions, and the thrill of pu
 
 ### Stats
 
-![davidesantangelo's Stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![davidesantangelo's Stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo&theme=merko&show_icons=true&hide_border=false&count_private=true)
 <br>
 ![davidesantangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <br>
