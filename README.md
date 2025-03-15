@@ -49,8 +49,8 @@ I focus on writing clean code, finding efficient solutions, and building sustain
   <a href="https://dev.to/daviducolo" target="_blank">
     <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="https://twitter.com/daviducolo" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/daviducolo" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-daviducolo-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
