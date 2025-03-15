@@ -1,49 +1,69 @@
-### Hi there 👋 I'm Davide Santangelo
+# Davide Santangelo
 
-I’m a passionate web development wizard with years of experience under my belt, crafting digital solutions that don’t just work—they shine. I thrive on tackling complex challenges, wielding a versatile toolkit of approaches and innovative strategies to deliver projects that stand out.
+![Header Image](https://img.shields.io/badge/Software-Engineer-brightgreen?style=for-the-badge)
 
-My Tech Love Affair: Ruby, Python, and Networking
+## 👋 Hi there!
 
-I’m head over heels for Ruby and Python—languages that fuel my creativity and empower me to build sleek, high-performing web applications. But it doesn’t stop there: I’m equally obsessed with networking, diving deep into the intricate dance of systems and connections that keep the digital world humming. From elegant backend logic to optimized network flows, I’m all about making tech magic happen.
+I'm a software engineer specializing in web development, with a focus on building efficient and scalable solutions.
 
-## REST API Maestro
+```ruby
+class DavideSantangelo < SoftwareEngineer
+  def initialize
+    @location = "Italy 🇮🇹"
+    @skills = ["Ruby", "C", "RESTful APIs", "Networking", "Search Engines"]
+    @interests = "Web development and system architecture"
+  end
 
-When it comes to REST API integration, I’m in my element. I’ve spent countless hours designing and implementing APIs that power robust, scalable web ecosystems. To me, a rock-solid API isn’t just a feature—it’s the beating heart of any successful project. I’m committed to delivering solutions that blend elegance with uncompromising strength, ensuring seamless communication between systems and a flawless user experience.
+  def current_focus
+    "Building efficient and maintainable solutions"
+  end
+end
+```
 
-## A Journey of Mastery
+## 🔧 Technical Skills
 
-I’ve sharpened my skills daily across wildly diverse environments, from startups to enterprise giants, mastering a kaleidoscope of technologies along the way. Whether it’s architecting full-stack applications, debugging the trickiest bugs, or optimizing performance to the nth degree, I bring relentless curiosity and adaptability to every challenge.
+- **Ruby** — Building scalable web applications and backend systems
+- **C** — Developing performance-optimized system-level solutions
+- **Networking** — Implementing and optimizing network infrastructure
+- **REST APIs** — Designing and implementing reliable interfaces
+- **Search Engines** — Working with search technologies and information retrieval
 
-## Search Engine Enthusiast
+## 🚀 Professional Experience
 
-One of my geeky joys? Unraveling the mysteries of search engines and their many implementations. I love studying how they tick—crawling, indexing, ranking—and experimenting with ways to make content smarter, faster, and more discoverable. It’s like a never-ending puzzle, and I’m hooked.
+I've worked across various environments from startups to enterprise companies, gaining experience with different technologies and methodologies. This diverse background has helped me develop strong problem-solving skills and adaptability to new challenges.
 
-## What Drives Me
+## 🔍 Search Engine Focus
 
-I’m fueled by a passion for clean code, clever solutions, and the thrill of pushing boundaries. Whether I’m collaborating with a team or diving solo into a project, my goal is simple: create something impactful, efficient, and downright cool. Let’s build the future—one line of code at a time.
+One of my main interests is search engine technology - understanding how they work from crawling to indexing and ranking. I enjoy studying methods to make content more discoverable and optimizing search performance.
 
+## ⚡ Professional Approach
 
-<p> <a href="https://www.linkedin.com/in/davidesantangelo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://dev.to/daviducolo" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
+I focus on writing clean code, finding efficient solutions, and building sustainable architectures. I value both collaborative teamwork and independent problem-solving, with the goal of creating effective and maintainable systems.
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/davidesantangelo/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/daviducolo" target="_blank">
+    <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/daviducolo" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
+
 
 ### About me :rocket:
 - 🎓 I am a Software Engineer
-- ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Ruby and Python* 
+- ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Ruby and C* 
 - 🏠 Italy
 
 ### Website
 
 [davidesantangelo.com](https://davidesantangelo.com)
 
-
 [![Twitter Follow][twitter-image]](https://twitter.com/daviducolo)
-
-### Stats
-
-![davidesantangelo's Stats](https://github-readme-stats.vercel.app/api?username=davidesantangelo&theme=merko&show_icons=true&hide_border=false&count_private=true)
-<br>
-![davidesantangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidesantangelo&theme=merko&show_icons=true&hide_border=false&layout=compact)
-<br>
-<br>
 
 [twitter-image]: https://img.shields.io/twitter/follow/daviducolo?style=social
